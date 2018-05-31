@@ -1,0 +1,9 @@
+﻿  Cleaning remote project directory
+  Validating architecture
+  Validating sources
+  Copying sources remotely to 'raspberrypi.local'
+  Starting remote build
+  Compiling sources:
+  opencvcap.cpp
+  Linking objects
+  2017vision.vcxproj -> C:\Users\robotics\Documents\2017_Vision\2017vision\bin\ARM\Debug\2017vision.out

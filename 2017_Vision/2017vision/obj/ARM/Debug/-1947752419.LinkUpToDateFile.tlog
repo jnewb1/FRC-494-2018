@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/2017vision/bin/ARM/Debug/2017vision.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/2017vision/obj/ARM/Debug/opencvcap.o -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lopencv_videoio -lopencv_highgui
